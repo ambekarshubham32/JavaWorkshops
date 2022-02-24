@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author eugry
+ *
+ */
+module javaBasicProgramming {
+}
